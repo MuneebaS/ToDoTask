@@ -26,10 +26,3 @@ Follow these steps to get the project running:
 3. Open the project in Android Studio.
 4. Wait for Android Studio to download the necessary Gradle dependencies.
 5. Click the Run button to launch the app.
-
-## How to Contribute
-1. Fork the repository.
-2. Create a new feature branch (`git checkout -b my-new-feature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push the branch to your fork (`git push origin my-new-feature`).
-5. Submit a pull request.
